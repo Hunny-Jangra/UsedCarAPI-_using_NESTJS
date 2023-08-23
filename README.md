@@ -11,3 +11,7 @@
 
 ## Popular searches and FAQ's
 ![popular sarches](https://github.com/Hunny-Jangra/UsedCarAPI-_using_NESTJS/assets/104129026/0d02631b-2738-4e0d-bb22-fabb748e4deb)
+
+
+## usedcar Footer
+![footer](https://github.com/Hunny-Jangra/UsedCarAPI-_using_NESTJS/assets/104129026/262468f4-9a65-4161-85de-bc2f989f3572)
